@@ -1,0 +1,234 @@
+{
+	"Handphone":[
+	
+	{
+		"produk_id":"S001",
+		"kategori":"Handphone",
+		"nama":"Samsung Galaxy A02 3/32GB - Black",
+		"deskripsi":"Samsung Galaxy A02 dilengkapi dengan layar 6,5 inch HD+ PLS Infinity-V, Camera (R) 13MP + 2MP, Camera (F) 5MP, RAM ROM 3/32GB, Battery 5000mAh, MediaTek 6739WW, Garansi Resmi Samsung",
+		"merk":"samsung",
+		"warna":"black",
+		"harga":1429000,
+		"stok":12
+		
+	},
+	{
+		"produk_id":"S002",
+		"kategori":"Handphone",
+		"nama":"Samsung Galaxy M21 4/64 GB - Black",
+		"deskripsi":"Samsung Galaxy M21 dilengkapi dengan display 6.4 inch FHD+ sA Infinity-U, AP Exynos9611, Camera Front 20MP Rear 48 MP + 8 MP + 5 MP, Memory RAM + ROM 4 + 64 GB, Battery 6,000mAh (15W), Fingerprint O",
+		"merk":"samsung",
+		"warna":"black",
+		"harga":2575000,
+		"stok":7
+		
+	},
+	{
+		"produk_id":"S003",
+		"kategori":"Handphone",
+		"nama":"Samsung Galaxy M51 - White",
+		"deskripsi":"Samsung Galaxy M51 - White dilengkapi dengan design 3D Glasstic, Display Size / Resolution 6.7 inch FHD+ sAMOLED+, Design Infinity-O Display, Camera Rear 64MP (F1.7) + 12MP (F2.2) +5MP (F2.4) + 5MP F(2.4), Front 32 MP (F2.0), Processor SM7150 Octa-core (2.2 Ghz + 1.8 Ghz), Memory RAM 8, Internal Storage 128, Micro SD Up to 512GB, Battery 7000 mAh, Dimension 164.1 x 76.5 x 9.5 mm, Dual SIM Type 3 Slot, Others Wired PowerShare, Side fingerprint, 25W Super-Fast Charging, NFC.",
+		"merk":"samsung",
+		"warna":"white",
+		"harga":4999000,
+		"stok":10
+		
+	},
+	{
+		"produk_id":"S004",
+		"kategori":"Handphone",
+		"nama":"Samsung Galaxy A10s 2/32 GB",
+		"deskripsi":"Samsung Galaxy A10s IPS LCD capacitive touchscreen, 16M colors Size	6.2 inches, 95.9 cm2 (~80.7% screen-to-body ratio), Chipset Mediatek MT6762 Helio P22 (12 nm), memory 32GB 2GB RAM, camera Dual	13 MP, f/1.8, 28mm (wide), AF 2 MP, f/2.4, depth sensor,  4000 mAh battery.",
+		"merk":"samsung",
+		"warna":"red",
+		"harga":1329000,
+		"stok":6
+		
+	},
+	{
+		"produk_id":"S005",
+		"kategori":"Handphone",
+		"nama":"HP realme narzo 20 4/64GB",
+		"deskripsi":"HP realme narzo 20 4/64GB dilengkapi dengan Helio G85 Gaming Processor, 6000mAh Mega Battery, 48MP AI Triple Camera, 18W Type-C Quick Charge, 2.5D Corning Gorilla Glass.",
+		"merk":"realme",
+		"warna":"Blue Blade",
+		"harga":2159000,
+		"stok":19
+		
+	},
+	{
+		"produk_id":"S006",
+		"kategori":"Handphone",
+		"nama":"HP realme 6 Pro 8/128GB",
+		"deskripsi":"HP realme 6 Pro 8/128GB dilengkapi dengan Processor Qualcomm Snapdragon 720G, Display 90Hz Ultra Smooth Display, battrei 4300mAh, Camera 64MP AI Quad Camera, .",
+		"merk":"realme",
+		"warna":"blue",
+		"harga":3599000,
+		"stok":14
+		
+	},
+	{
+		"produk_id":"S007",
+		"kategori":"Handphone",
+		"nama":"REALME C12 RAM 3GB/32GB",
+		"deskripsi":"REALME C12 RAM 3GB/32GB dilengkapi dengan ChipsetMediaTek Helio G35, MAIN CAMERA 13+2+2 MP, SELFIE CAMERA Single 5 Mega Pixel, BATTERY Non-removable Li-Po 6000 .",
+		"merk":"realme",
+		"warna":"red",
+		"harga":1799000,
+		"stok":9
+		
+	},
+	{
+		"produk_id":"S008",
+		"kategori":"Handphone",
+		"nama":"OPPO Reno4 F 8GB/128GB",
+		"deskripsi":"OPPO Reno4 F 8GB/128GB dilengkapi dengan processor MediaTek Helio P95, Battery 3890/4000mAh, display 6.43'' Super AMOLED, Rear Camera: 48MP (GM1ST) + 8MP (Wide-angle Camera) + 2MP (Mono Camera) + 2MP (Mono Camera).",
+		"merk":"oppo",
+		"warna":"black",
+		"harga":3999000,
+		"stok":2
+		
+	},
+	{
+		"produk_id":"S009",
+		"kategori":"Handphone",
+		"nama":"OPPO Reno3 Pro 8GB/256GB ",
+		"deskripsi":"OPPO Reno3 Pro 8GB/256GB  dilengkapi dengan processor MediaTek Helio P95, Battery 3935/4025mAh, Camera Rear Sensor: 64MP + 13MP + 8MP + 2MP Front Sensor: 44MP + 2MP, RAM 8GB Storage 256GB.",
+		"merk":"oppo",
+		"warna":"sky white",
+		"harga":4499000,
+		"stok":12
+		
+	},
+	{
+		"produk_id":"S010",
+		"kategori":"Handphone",
+		"nama":"OPPO A11K 2GB/32GB",
+		"deskripsi":"OPPO A11K 2GB/32GB dilengkapi dengan processor MediaTek Helio P35, Battery: 4100/4230mAh, RAM: 2GB Storage: 32GB, Camera Rear Camera: 13M + 2M Front Sensor: 5MP.",
+		"merk":"oppo",
+		"warna":"black",
+		"harga":1699000,
+		"stok":7
+		
+	}
+	
+	]
+
+}
+
+{
+	"komputer":[
+	
+	{
+		"produk_id":"C001",
+		"kategori":"komputer",
+		"nama":"ASUS K413EA-AM551IPS Core i5-1135G7",
+		"deskripsi":"ASUS K413EA-AM551IPS Core i5-1135G7 dilengkapi dengan Processor Intel Core i5-1135G7 Processor 2.4 GHz, Memory : 8GB DDR4, Storage : 512GB SSD, Graphics : INTEGRATED Intel Iris Xᵉ Graphics, Operating System : Windows 10 HOME +OHS 2019, Battery : 42WHrs, 3S1P, 3-cell Li-ion.",
+		"merk":"asus",
+		"warna":"black",
+		"harga":11000000,
+		"stok":14
+		
+	},
+	{
+		"produk_id":"C002",
+		"kategori":"komputer",
+		"nama":"ASUS FX506IV-R9R6B6T-O R9-4900H",
+		"deskripsi":"ASUS FX506IV-R9R6B6T-O R9-4900H dilengkapi dengan Processor Onboard : AMD Ryzen™ 9 4900H Processor 3.3 GHz (8M Cache, up to 4.4 GHz), Memori Standar : 8 GB DDR4 3200Mhz, NVIDIA GeForce RTX 2060 with ROG Boost, Hard Disk : 512GB M.2 NVMe™ PCIe® 3.0 SSD, Sistem Operasi : Windows 10 Home + OHS 2019, Batteray : 48WHrs, 3S1P, 3-cell Li-ion.",
+		"merk":"asus",
+		"warna":"grey",
+		"harga":22441000,
+		"stok":8
+		
+	},
+	{
+		"produk_id":"C003",
+		"kategori":"komputer",
+		"nama":"ASUS G512LI-I75TB6T i7-10750H",
+		"deskripsi":"ASUS G512LI-I75TB6T i7-10750H dilengkapi dengan Processor Onboard : 10th Generation Intel® Core™ i7-10750H Processor (12M Cache, up to 5.00 GHz), Memori Standar : 8 GB DDR4 3200Hz SDRAM, SO-DIMM socket for expansion, up to 32 GB SDRAM, Dual-channel, NVIDIA® GeForce® GTX 1650Ti GDDR6, with 4GB VRAM, Ukuran Layar : 15.6inch (16:9) LED-backlit FHD (1920x1080) Anti-Glare IPS-level 144Hz, STORAGE : 512GB SSD SATA PCIE, Keyboard : Illuminated Chiclet Keyboard RGB.",
+		"merk":"asus",
+		"warna":"black",
+		"harga":17271000,
+		"stok":10
+		
+	},
+	{
+		"produk_id":"C004",
+		"kategori":"komputer",
+		"nama":"ASUS UX425EA-BM552TS",
+		"deskripsi":"ASUS UX425EA-BM552TS dilengkapi dengan Processor Onboard : Intel® Core™ i5-1135G7 Processor 2.4 GHz (8M Cache, up to 4.2 GHz, 4 cores), Memori Standar : 8GB LPDDR4X on board, Tipe Grafis : Intel® IrisXe 80EU, Hard Disk : 512GB M.2 NVMe™ PCIe® 3.0 SSD, Keyboard : Backlit Chirclet Keyboard, Sistem Operasi : Windows 10 Home + Microsoft Office Home & Student 2019, Baterai : 67WHrs, 4S1P, 4-cell Li-ion.",
+		"merk":"asus",
+		"warna":"black",
+		"harga":14000000,
+		"stok":5
+		
+	},
+	{
+		"produk_id":"C005",
+		"kategori":"komputer",
+		"nama":"ASUS ROG Zephyrus GA401II-R75TA8W",
+		"deskripsi":"ASUS ROG Zephyrus GA401II-R75TA8W dilengkapi dengan Processor : AMD Ryzen™ 7 4800HS Processor 2.9 GHz (8M Cache, up to 4.2 GHz), Memory : 8GB DDR4, Storage : SSD 512GB PCIe, Graphics : NVIDIA GeForce GTX1650TI 4GB, Operating System : Windows 10 HOME, Display : 14-inch Non-glare Full HD (1920 x 1080) IPS-level panel, 120Hz, 100% sRGB, Battery :76WHrs, 4S1P, 4-cell Li-ion.",
+		"merk":"asus",
+		"warna":"white",
+		"harga":19000000,
+		"stok":11
+		
+	},
+	{
+		"produk_id":"C006",
+		"kategori":"komputer",
+		"nama":"HP Laptop 14s-dk1122AU (1X9Y7PA)",
+		"deskripsi":"HP Laptop 14s-dk1122AU (1X9Y7PA) dilengkapi dengan ProcessorAMD Athlon™ Gold 3150U, Memory4 GB DDR4-2400 SDRAM (1 x 4 GB), Graphics (integrated)AMD Radeon™ Graphics, Internal Storage512 GB PCIe® NVMe™ M.2 SSD, Battery type3-cell, 41 Wh Li-ion.",
+		"merk":"hp",
+		"warna":"silver",
+		"harga":5998000,
+		"stok":8
+		
+	},
+	{
+		"produk_id":"C007",
+		"kategori":"komputer",
+		"nama":"HP Laptop 14s-fq0020AU (21U61PA)",
+		"deskripsi":"HP Laptop 14s-fq0020AU (21U61PA) dilengkapi dengan ProcessorAMD Ryzen™ 3 3250U, Memory8 GB DDR4-2400 SDRAM (2 x 4 GB), Internal Storage512 GB PCIe® NVMe™ M.2 SSD, Graphics (integrated)AMD Radeon™ Graphics, Battery type 3-cell, 41 Wh Li-ion.",
+		"merk":"hp",
+		"warna":"black",
+		"harga":6998000,
+		"stok":11
+		
+	},
+	{
+		"produk_id":"C008",
+		"kategori":"komputer",
+		"nama":"HP ENVY x360 Convertible 13-ay0006AU",
+		"deskripsi":"HP ENVY x360 Convertible 13-ay0006AU dilengkapi dengan Processor AMD Ryzen™ 7 4700U, Memory: 16 GB DDR4-3200 SDRAM (onboard), Internal Storage: 512 GB PCIe® NVMe™ M.2 SSD, Graphics (integrated): AMD Radeon™ Graphics, Battery type3-cell, 51 Wh Li-ion.",
+		"merk":"hp",
+		"warna":"black",
+		"harga":17665000,
+		"stok":13
+		
+	},
+	{
+		"produk_id":"C009",
+		"kategori":"komputer",
+		"nama":"Lenovo IdeaPad Slim 3",
+		"deskripsi":"Lenovo IdeaPad Slim 3 dilengkapi dengan AMD Ryzen 3 3250U, Integrated AMD Radeon Graphics, 4GB DDR4-2400, 256GB SSD M.2 2242, 14 inch FHD TN, Win10 Home, non-backlit) + Microsoft Office Home & Student 2019.",
+		"merk":"lenovo",
+		"warna":"red",
+		"harga":6999000,
+		"stok":14
+		
+	},
+	{
+		"produk_id":"C010",
+		"kategori":"komputer",
+		"nama":"Lenovo YOGA Slim 7i Carbon",
+		"deskripsi":"Lenovo YOGA Slim 7i Carbon dilengkapi dengan Intel Core i7-1165G7 Evo, Project Athena Certified, Win10 Home, 16GB LPDDR4X-4266, 1TB SSD NVMe, 13.3 inch QHD IPS WVA, 100% sRGB, Dolby Vision, Integrated Intel Iris Xe Graphics) + OHS 2019.",
+		"merk":"lenovo",
+		"warna":"white",
+		"harga":19499000,
+		"stok":15
+		
+	}
+	
+	]
+}
